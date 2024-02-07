@@ -1,0 +1,176 @@
+2024-02-07 00:56:07,763 - INFO - Successfully imported candidate John Doe for job Data Architect
+2024-02-07 00:56:08,668 - INFO - Successfully imported candidate Jane Smith for job Data Architect
+2024-02-07 00:56:09,527 - INFO - Successfully imported candidate Michael Jones for job Data Architect
+2024-02-07 00:56:10,384 - INFO - Successfully imported candidate Sarah Clark for job Data Architect
+2024-02-07 00:56:11,389 - INFO - Successfully imported candidate Chris Nguyen for job Data Architect
+2024-02-07 00:56:12,271 - INFO - Successfully imported candidate Emily Kim for job Data Architect
+2024-02-07 00:56:12,783 - INFO - Successfully imported candidate Aaron Lee for job Data Architect
+2024-02-07 00:56:13,593 - INFO - Successfully imported candidate Olivia Evans for job Data Architect
+2024-02-07 00:56:14,125 - INFO - Successfully imported candidate James Miller for job Data Architect
+2024-02-07 00:56:14,700 - INFO - Successfully imported candidate Lily Chen for job Data Architect
+2024-02-07 00:56:15,371 - INFO - Successfully imported candidate David Johnson for job Data Architect
+2024-02-07 00:56:15,967 - INFO - Successfully imported candidate Amy Williams for job Data Architect
+2024-02-07 00:56:16,340 - ERROR - Error importing candidate Robert Lee: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 00:56:16,655 - ERROR - Error importing candidate Michelle Nguyen: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 00:56:16,978 - ERROR - Error importing candidate Andrew Smith: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 00:56:17,312 - ERROR - Error importing candidate Karen Johnson: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 00:56:17,699 - ERROR - Error importing candidate Justin Kim: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 00:56:18,014 - ERROR - Error importing candidate Grace Li: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 00:56:18,329 - ERROR - Error importing candidate Christopher Brown: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 00:56:18,645 - ERROR - Error importing candidate Isabella Wang: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 00:56:18,999 - ERROR - Error importing candidate Justin Johnson: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 00:56:19,303 - ERROR - Error importing candidate Sophia Lee: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 01:16:02,176 - INFO - Successfully imported candidate John Doe for job Data Architect
+2024-02-07 01:16:02,819 - INFO - Successfully imported candidate Jane Smith for job Data Architect
+2024-02-07 01:16:03,315 - INFO - Successfully imported candidate Michael Jones for job Data Architect
+2024-02-07 01:16:03,981 - INFO - Successfully imported candidate Sarah Clark for job Data Architect
+2024-02-07 01:16:04,605 - INFO - Successfully imported candidate Chris Nguyen for job Data Architect
+2024-02-07 01:16:05,115 - INFO - Successfully imported candidate Emily Kim for job Data Architect
+2024-02-07 01:16:05,712 - INFO - Successfully imported candidate Aaron Lee for job Data Architect
+2024-02-07 01:16:06,219 - INFO - Successfully imported candidate Olivia Evans for job Data Architect
+2024-02-07 01:16:06,802 - INFO - Successfully imported candidate James Miller for job Data Architect
+2024-02-07 01:16:07,130 - ERROR - Error importing candidate Lily Chen: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 01:16:07,475 - ERROR - Error importing candidate David Johnson: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 01:16:07,776 - ERROR - Error importing candidate Amy Williams: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 01:16:08,106 - ERROR - Error importing candidate Robert Lee: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 01:16:08,464 - ERROR - Error importing candidate Michelle Nguyen: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 01:16:08,797 - ERROR - Error importing candidate Andrew Smith: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 01:16:09,116 - ERROR - Error importing candidate Karen Johnson: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 01:16:09,424 - ERROR - Error importing candidate Justin Kim: 429 Client Error: Too Many Requests for url: https://assignmentcorporate.workable.com/spi/v3/jobs/F8D1EA3849/candidates
+2024-02-07 01:16:09,998 - INFO - Successfully imported candidate Grace Li for job Data Architect
+2024-02-07 01:16:10,644 - INFO - Successfully imported candidate Christopher Brown for job Data Architect
+2024-02-07 01:16:11,287 - INFO - Successfully imported candidate Isabella Wang for job Data Architect
+2024-02-07 01:16:11,924 - INFO - Successfully imported candidate Justin Johnson for job Data Architect
+2024-02-07 01:16:12,468 - INFO - Successfully imported candidate Sophia Lee for job Data Architect
+2024-02-07 01:28:19,662 - INFO - Successfully imported candidate John Doe for job Data Architect
+2024-02-07 01:28:21,330 - INFO - Successfully imported candidate Jane Smith for job Data Architect
+2024-02-07 01:28:23,028 - INFO - Successfully imported candidate Michael Jones for job Data Architect
+2024-02-07 01:28:24,660 - INFO - Successfully imported candidate Sarah Clark for job Data Architect
+2024-02-07 01:28:26,300 - INFO - Successfully imported candidate Chris Nguyen for job Data Architect
+2024-02-07 01:28:27,862 - INFO - Successfully imported candidate Emily Kim for job Data Architect
+2024-02-07 01:28:29,520 - INFO - Successfully imported candidate Aaron Lee for job Data Architect
+2024-02-07 01:28:31,110 - INFO - Successfully imported candidate Olivia Evans for job Data Architect
+2024-02-07 01:28:32,724 - INFO - Successfully imported candidate James Miller for job Data Architect
+2024-02-07 01:28:34,324 - INFO - Successfully imported candidate Lily Chen for job Data Architect
+2024-02-07 01:28:35,923 - INFO - Successfully imported candidate David Johnson for job Data Architect
+2024-02-07 01:28:37,485 - INFO - Successfully imported candidate Amy Williams for job Data Architect
+2024-02-07 01:28:39,071 - INFO - Successfully imported candidate Robert Lee for job Data Architect
+2024-02-07 01:28:40,632 - INFO - Successfully imported candidate Michelle Nguyen for job Data Architect
+2024-02-07 01:28:42,161 - INFO - Successfully imported candidate Andrew Smith for job Data Architect
+2024-02-07 01:28:43,742 - INFO - Successfully imported candidate Karen Johnson for job Data Architect
+2024-02-07 01:28:45,306 - INFO - Successfully imported candidate Justin Kim for job Data Architect
+2024-02-07 01:28:46,879 - INFO - Successfully imported candidate Grace Li for job Data Architect
+2024-02-07 01:28:48,530 - INFO - Successfully imported candidate Christopher Brown for job Data Architect
+2024-02-07 01:28:50,104 - INFO - Successfully imported candidate Isabella Wang for job Data Architect
+2024-02-07 01:28:51,688 - INFO - Successfully imported candidate Justin Johnson for job Data Architect
+2024-02-07 01:28:53,394 - INFO - Successfully imported candidate Sophia Lee for job Data Architect
+2024-02-07 01:42:04,534 - INFO - Successfully imported candidate John Doe for job Data Architect
+2024-02-07 01:42:06,137 - INFO - Successfully imported candidate Jane Smith for job Data Architect
+2024-02-07 01:42:07,700 - INFO - Successfully imported candidate Michael Jones for job Data Architect
+2024-02-07 01:42:09,228 - INFO - Successfully imported candidate Sarah Clark for job Data Architect
+2024-02-07 01:42:10,758 - INFO - Successfully imported candidate Chris Nguyen for job Data Architect
+2024-02-07 01:42:12,384 - INFO - Successfully imported candidate Emily Kim for job Data Architect
+2024-02-07 01:42:13,898 - INFO - Successfully imported candidate Aaron Lee for job Data Architect
+2024-02-07 01:42:15,510 - INFO - Successfully imported candidate Olivia Evans for job Data Architect
+2024-02-07 01:42:17,128 - INFO - Successfully imported candidate James Miller for job Data Architect
+2024-02-07 01:42:18,768 - INFO - Successfully imported candidate Lily Chen for job Data Architect
+2024-02-07 01:42:20,398 - INFO - Successfully imported candidate David Johnson for job Data Architect
+2024-02-07 01:42:22,044 - INFO - Successfully imported candidate Amy Williams for job Data Architect
+2024-02-07 01:42:23,616 - INFO - Successfully imported candidate Robert Lee for job Data Architect
+2024-02-07 01:42:25,115 - INFO - Successfully imported candidate Michelle Nguyen for job Data Architect
+2024-02-07 01:42:26,702 - INFO - Successfully imported candidate Andrew Smith for job Data Architect
+2024-02-07 01:42:28,321 - INFO - Successfully imported candidate Karen Johnson for job Data Architect
+2024-02-07 01:42:29,991 - INFO - Successfully imported candidate Justin Kim for job Data Architect
+2024-02-07 01:42:31,609 - INFO - Successfully imported candidate Grace Li for job Data Architect
+2024-02-07 01:42:33,121 - INFO - Successfully imported candidate Christopher Brown for job Data Architect
+2024-02-07 01:42:34,760 - INFO - Successfully imported candidate Isabella Wang for job Data Architect
+2024-02-07 01:42:36,326 - INFO - Successfully imported candidate Justin Johnson for job Data Architect
+2024-02-07 01:42:37,924 - INFO - Successfully imported candidate Sophia Lee for job Data Architect
+2024-02-07 01:53:38,413 - INFO - Successfully imported candidate John Doe for job Data Architect
+2024-02-07 01:53:39,950 - INFO - Successfully imported candidate Jane Smith for job Data Architect
+2024-02-07 01:53:41,643 - INFO - Successfully imported candidate Michael Jones for job Data Architect
+2024-02-07 01:53:43,121 - INFO - Successfully imported candidate Sarah Clark for job Data Architect
+2024-02-07 01:53:44,707 - INFO - Successfully imported candidate Chris Nguyen for job Data Architect
+2024-02-07 01:53:46,305 - INFO - Successfully imported candidate Emily Kim for job Data Architect
+2024-02-07 01:53:47,908 - INFO - Successfully imported candidate Aaron Lee for job Data Architect
+2024-02-07 01:53:49,539 - INFO - Successfully imported candidate Olivia Evans for job Data Architect
+2024-02-07 01:53:51,070 - INFO - Successfully imported candidate James Miller for job Data Architect
+2024-02-07 01:53:52,600 - INFO - Successfully imported candidate Lily Chen for job Data Architect
+2024-02-07 01:53:54,129 - INFO - Successfully imported candidate David Johnson for job Data Architect
+2024-02-07 01:53:55,715 - INFO - Successfully imported candidate Amy Williams for job Data Architect
+2024-02-07 01:53:57,348 - INFO - Successfully imported candidate Robert Lee for job Data Architect
+2024-02-07 01:53:58,903 - INFO - Successfully imported candidate Michelle Nguyen for job Data Architect
+2024-02-07 01:54:00,416 - INFO - Successfully imported candidate Andrew Smith for job Data Architect
+2024-02-07 01:54:01,994 - INFO - Successfully imported candidate Karen Johnson for job Data Architect
+2024-02-07 01:54:03,540 - INFO - Successfully imported candidate Justin Kim for job Data Architect
+2024-02-07 01:54:05,152 - INFO - Successfully imported candidate Grace Li for job Data Architect
+2024-02-07 01:54:06,683 - INFO - Successfully imported candidate Christopher Brown for job Data Architect
+2024-02-07 01:54:08,235 - INFO - Successfully imported candidate Isabella Wang for job Data Architect
+2024-02-07 01:54:09,825 - INFO - Successfully imported candidate Justin Johnson for job Data Architect
+2024-02-07 01:54:11,494 - INFO - Successfully imported candidate Sophia Lee for job Data Architect
+2024-02-07 02:45:37,747 - INFO - Successfully imported candidate John Doe for job Data Architect
+2024-02-07 02:45:39,720 - INFO - Successfully imported candidate Jane Smith for job Data Architect
+2024-02-07 02:45:41,699 - INFO - Successfully imported candidate Michael Jones for job Data Architect
+2024-02-07 02:45:43,623 - INFO - Successfully imported candidate Sarah Clark for job Data Architect
+2024-02-07 02:45:45,509 - INFO - Successfully imported candidate Chris Nguyen for job Data Architect
+2024-02-07 02:45:47,100 - INFO - Successfully imported candidate Emily Kim for job Data Architect
+2024-02-07 02:45:48,681 - INFO - Successfully imported candidate Aaron Lee for job Data Architect
+2024-02-07 02:45:50,580 - INFO - Successfully imported candidate Olivia Evans for job Data Architect
+2024-02-07 02:45:52,361 - INFO - Successfully imported candidate James Miller for job Data Architect
+2024-02-07 02:45:53,897 - INFO - Successfully imported candidate Lily Chen for job Data Architect
+2024-02-07 02:45:55,540 - INFO - Successfully imported candidate David Johnson for job Data Architect
+2024-02-07 02:45:57,121 - INFO - Successfully imported candidate Amy Williams for job Data Architect
+2024-02-07 02:45:58,666 - INFO - Successfully imported candidate Robert Lee for job Data Architect
+2024-02-07 02:46:00,282 - INFO - Successfully imported candidate Michelle Nguyen for job Data Architect
+2024-02-07 02:46:01,954 - INFO - Successfully imported candidate Andrew Smith for job Data Architect
+2024-02-07 02:46:03,547 - INFO - Successfully imported candidate Karen Johnson for job Data Architect
+2024-02-07 02:46:05,093 - INFO - Successfully imported candidate Justin Kim for job Data Architect
+2024-02-07 02:46:06,670 - INFO - Successfully imported candidate Grace Li for job Data Architect
+2024-02-07 02:46:08,231 - INFO - Successfully imported candidate Christopher Brown for job Data Architect
+2024-02-07 02:46:09,954 - INFO - Successfully imported candidate Isabella Wang for job Data Architect
+2024-02-07 02:46:11,642 - INFO - Successfully imported candidate Justin Johnson for job Data Architect
+2024-02-07 02:46:13,223 - INFO - Successfully imported candidate Sophia Lee for job Data Architect
+2024-02-07 11:28:49,138 - INFO - Successfully imported candidate John Doe for job Data Architect
+2024-02-07 11:28:51,148 - INFO - Successfully imported candidate Jane Smith for job Data Architect
+2024-02-07 11:28:52,985 - INFO - Successfully imported candidate Michael Jones for job Data Architect
+2024-02-07 11:28:54,857 - INFO - Successfully imported candidate Sarah Clark for job Data Architect
+2024-02-07 11:28:56,693 - INFO - Successfully imported candidate Chris Nguyen for job Data Architect
+2024-02-07 11:28:58,423 - INFO - Successfully imported candidate Emily Kim for job Data Architect
+2024-02-07 11:28:59,991 - INFO - Successfully imported candidate Aaron Lee for job Data Architect
+2024-02-07 11:29:01,849 - INFO - Successfully imported candidate Olivia Evans for job Data Architect
+2024-02-07 11:29:03,446 - INFO - Successfully imported candidate James Miller for job Data Architect
+2024-02-07 11:29:05,692 - INFO - Successfully imported candidate Lily Chen for job Data Architect
+2024-02-07 11:29:07,228 - INFO - Successfully imported candidate David Johnson for job Data Architect
+2024-02-07 11:29:08,869 - INFO - Successfully imported candidate Amy Williams for job Data Architect
+2024-02-07 11:29:10,433 - INFO - Successfully imported candidate Robert Lee for job Data Architect
+2024-02-07 11:29:12,064 - INFO - Successfully imported candidate Michelle Nguyen for job Data Architect
+2024-02-07 11:29:13,647 - INFO - Successfully imported candidate Andrew Smith for job Data Architect
+2024-02-07 11:29:15,214 - INFO - Successfully imported candidate Karen Johnson for job Data Architect
+2024-02-07 11:29:16,830 - INFO - Successfully imported candidate Justin Kim for job Data Architect
+2024-02-07 11:29:18,347 - INFO - Successfully imported candidate Grace Li for job Data Architect
+2024-02-07 11:29:19,960 - INFO - Successfully imported candidate Christopher Brown for job Data Architect
+2024-02-07 11:29:21,579 - INFO - Successfully imported candidate Isabella Wang for job Data Architect
+2024-02-07 11:29:23,176 - INFO - Successfully imported candidate Justin Johnson for job Data Architect
+2024-02-07 11:29:24,777 - INFO - Successfully imported candidate Sophia Lee for job Data Architect
+2024-02-07 11:39:29,523 - INFO - Successfully imported candidate John Doe for job Data Architect
+2024-02-07 11:39:31,126 - INFO - Successfully imported candidate Jane Smith for job Data Architect
+2024-02-07 11:39:32,696 - INFO - Successfully imported candidate Michael Jones for job Data Architect
+2024-02-07 11:39:34,285 - INFO - Successfully imported candidate Sarah Clark for job Data Architect
+2024-02-07 11:39:36,113 - INFO - Successfully imported candidate Chris Nguyen for job Data Architect
+2024-02-07 11:39:37,659 - INFO - Successfully imported candidate Emily Kim for job Data Architect
+2024-02-07 11:39:39,551 - INFO - Successfully imported candidate Aaron Lee for job Data Architect
+2024-02-07 11:39:41,105 - INFO - Successfully imported candidate Olivia Evans for job Data Architect
+2024-02-07 11:39:42,972 - INFO - Successfully imported candidate James Miller for job Data Architect
+2024-02-07 11:39:44,786 - INFO - Successfully imported candidate Lily Chen for job Data Architect
+2024-02-07 11:39:46,409 - INFO - Successfully imported candidate David Johnson for job Data Architect
+2024-02-07 11:39:48,037 - INFO - Successfully imported candidate Amy Williams for job Data Architect
+2024-02-07 11:39:49,547 - INFO - Successfully imported candidate Robert Lee for job Data Architect
+2024-02-07 11:39:51,469 - INFO - Successfully imported candidate Michelle Nguyen for job Data Architect
+2024-02-07 11:39:53,071 - INFO - Successfully imported candidate Andrew Smith for job Data Architect
+2024-02-07 11:39:54,977 - INFO - Successfully imported candidate Karen Johnson for job Data Architect
+2024-02-07 11:39:56,576 - INFO - Successfully imported candidate Justin Kim for job Data Architect
+2024-02-07 11:39:58,140 - INFO - Successfully imported candidate Grace Li for job Data Architect
+2024-02-07 11:39:59,775 - INFO - Successfully imported candidate Christopher Brown for job Data Architect
+2024-02-07 11:40:01,382 - INFO - Successfully imported candidate Isabella Wang for job Data Architect
+2024-02-07 11:40:02,917 - INFO - Successfully imported candidate Justin Johnson for job Data Architect
+2024-02-07 11:40:04,425 - INFO - Successfully imported candidate Sophia Lee for job Data Architect
