@@ -3,7 +3,7 @@
 
 This Python script allows you to import candidate data from a CSV file into your Workable account, following specific requirements.
 
-
+Developed for Workable for candidate assessment.
 
 
 ## Requirements
